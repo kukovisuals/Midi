@@ -105,8 +105,8 @@ public class MidiSimple {
         System.out.println( "---------------------" );
       }
     }
-
     public void close( ) {
     }
+    
   }
 }
